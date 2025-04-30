@@ -43,7 +43,7 @@ int main() {
     }
 }
 ```
-##OUTPUT
+### OUTPUT
 
 ![Screenshot from 2025-04-26 16-27-18](https://github.com/user-attachments/assets/a33027b2-eb78-4498-8702-1e5f24b7632e)
 
@@ -93,7 +93,7 @@ int main() {
 }
 ```
 
-##OUTPUT
+### OUTPUT
 
 ![Screenshot from 2025-04-30 15-36-01](https://github.com/user-attachments/assets/c176c42c-db52-4aee-816c-66ccde2576ab)
 
